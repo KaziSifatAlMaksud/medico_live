@@ -1,0 +1,89 @@
+#select-all-table {
+
+    &.form-check-input:checked,
+    &.form-check-input[type=checkbox]:indeterminate {
+        border-color: var(--bs-white);
+    }
+}
+
+.flatpickr-calendar {
+
+    &.arrowTop {
+        &:before {
+            border-bottom-color: var(--bs-border-color);
+        }
+
+        &::after {
+            border-bottom-color: var(--bs-border-color);
+        }
+    }
+
+    &.hasTime {
+        .flatpickr-time {
+            border: 1px solid var(--bs-border-color);
+            align-items: center;
+
+            .flatpickr-am-pm {
+                width: 20%;
+            }
+        }
+    }
+
+}
+
+.multiselect {
+    .multiselect-tags {
+        .multiselect-tag {
+            white-space: break-spaces;
+        }
+    }
+
+    input.multiselect-tags-search {
+        background: var(--bs-gray-900);
+    }
+}
+
+.input-select-image-box {
+    margin-bottom: 0 !important;
+}
+
+.form-logo {
+    width: 130px;
+}
+
+.tui-image-editor-container {
+    .tui-image-editor-submenu {
+        .tui-image-editor-submenu-item {
+            .tui-image-editor-button.apply {
+                label {
+                    vertical-align: 0 !important;
+                }
+            }
+
+            .tui-image-editor-button.cancel {
+                label {
+                    vertical-align: 0 !important;
+                }
+            }
+        }
+    }
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.overflow-x-visible {
+    overflow-x: visible;
+}
+.appointment_date{
+    .flatpickr-calendar {
+        width: 100%;
+        box-shadow: none;
+    }
+}
+.status-filter{
+    .select2-container{
+        min-width: 6rem;
+    }
+}

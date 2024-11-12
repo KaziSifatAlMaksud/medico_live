@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'title' => 'Πελάτης',
+    'singular_title' => 'Ασθενής',
+    'lbl_profile_image' => 'Εικόνα προφίλ',
+    'lbl_first_name' => 'Όνομα',
+    'lbl_last_name' => 'Επώνυμο',
+    'lbl_Email' => 'Ηλεκτρονικό ταχυδρομείο',
+    'lbl_phone_number' => 'Τηλέφωνο',
+    'lbl_gender' => 'Φύλο',
+    'lbl_status' => 'Κατάσταση',
+    'lbl_verification_status' => 'Κατάσταση επαλήθευσης',
+    'lbl_blocked' => 'Αποκλεισμένος',
+    'msg_verified' => 'Επαληθεύτηκε',
+    'msg_unverified' => 'Χρειάζεται επαλήθευση',
+    'lbl_action' => 'Ενέργεια',
+    'lbl_date_of_birth' => 'Ημερομηνία γέννησης',
+    'lbl_name' => 'Όνομα',
+    'patient_information' => 'Πληροφορίες Ασθενή',
+    'about' => 'Σχετικά',
+    'total_reviews' => 'Συνολικές κριτικές',
+    'total_appointments' => 'Συνολικές ραντεβού',
+    'other_details' => 'Άλλες λεπτομέρειες',
+    'reviews' => 'Κριτικές',
+    'appointments' => 'Ραντεβού',
+    'doctor_name' => 'Όνομα γιατρού',
+    'data_not_found' => 'Δεν βρέθηκαν δεδομένα',
+    'view_all' => 'Προβολή όλων',
+    'working_day' => 'Εργάσιμη Ημέρα',
+    'start_time' => 'Ώρα Έναρξης',
+    'end_time' => 'Ώρα Λήξης',
+    'details' => 'Λεπτομέρειες',
+
+];
+

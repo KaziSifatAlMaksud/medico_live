@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'title' => 'Customer',
+    'singular_title' => 'Receptionist',
+    'lbl_profile_image' => 'Profile Image',
+    'lbl_first_name' => 'First Name',
+    'lbl_last_name' => 'Last Name',
+    'lbl_Email' => 'Email',
+    'lbl_phone_number' => 'Phone Number',
+    'lbl_gender' => 'Gender',
+    'lbl_status' => 'Status',
+    'lbl_verification_status' => 'Verification Status',
+    'lbl_blocked' => 'Blocked',
+    'msg_verified' => 'Verified',
+    'msg_unverified' => 'Need To Verify',
+    'lbl_action' => 'Action',
+    'lbl_date_of_birth'=>'Date of Birth',
+    'lbl_name'=>'Name',
+    'receptionist_verify' => 'Receptionist Verified Successfully',
+    'bulk_update' => 'Bulk Action Updated',
+    'bulk_receptionist_update' => 'Bulk receptionist Status Updated',
+    'bulk_receptionist_delete' => 'Bulk receptionist Status Deleted',
+    'password_update' => 'Password Updated Successfully',
+    'other_details' => 'Other details',
+    'lbl_confirm_password' => 'Confirm password',
+    'lbl_password' => 'Password',
+    'select_vendors' => 'Select Clinic Admin',
+    'select_clinic_centre' => 'Select Clinic Centre',
+    'postal_code'=> 'Postal Code'
+];
